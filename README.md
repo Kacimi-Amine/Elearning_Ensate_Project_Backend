@@ -14,3 +14,8 @@ E_learning app , backend using Spring boot , JWT..
 
 ##### Using Swagger-ui
 - Go to http://localhost:8080/e-learning/swagger-ui.html#/
+
+![](screens/swagger1.PNG)
+![](screens/swagger2.PNG)
+![](screens/swagger3.PNG)
+
