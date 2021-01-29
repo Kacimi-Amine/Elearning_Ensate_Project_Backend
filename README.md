@@ -19,7 +19,7 @@ E_learning app , backend using Spring boot , JWT..
 ![](screens/swagger2.PNG)
 ![](screens/swagger3.PNG)
 
+
 ##### Using Postman 
   JWT Auth:
-  
-  
+  ![](screens/postman.PNG)
