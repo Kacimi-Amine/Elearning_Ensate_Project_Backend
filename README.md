@@ -1,4 +1,4 @@
-# Elearning Project -Backend-
+# Elearning Project -Backend part-
 
 E_learning app , backend using Spring boot , JWT..
 
